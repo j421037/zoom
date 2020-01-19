@@ -1,0 +1,42 @@
+﻿  sdk_demo_v2.cpp
+D:\projects\zoom\zoom-sdk-windows-master\demo\DuiLib\include\Core\UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+D:\projects\zoom\zoom-sdk-windows-master\demo\sdk_demo_v2\sdk_demo_v2.cpp(70): warning C4101: “stream”: 未引用的局部变量
+    正在创建库 ..\..\bin\sdk_demo_v2_2017.lib 和对象 ..\..\bin\sdk_demo_v2_2017.exp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+DuiLib_2017.lib(UIActiveX.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIActiveX.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIButton.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIButton.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UICheckBox.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UICheckBox.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UICombo.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UICombo.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIDateTime.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIDateTime.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIEdit.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIEdit.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIGifAnim.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIGifAnim.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UILabel.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UILabel.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIList.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIList.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIOption.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIOption.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIProgress.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIProgress.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIRichEdit.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIRichEdit.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIScrollBar.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIScrollBar.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UISlider.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UISlider.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIText.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIText.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UITreeView.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UITreeView.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIWebBrowser.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIWebBrowser.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIBase.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIBase.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIContainer.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIContainer.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIControl.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIControl.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIDlgBuilder.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIDlgBuilder.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIManager.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIManager.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIMarkup.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIMarkup.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIRender.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIRender.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIChildLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIChildLayout.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIHorizontalLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIHorizontalLayout.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UITabLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UITabLayout.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UITileLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UITileLayout.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIVerticalLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIVerticalLayout.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(StdAfx.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(StdAfx.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(stb_image.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(stb_image.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(UIDelegate.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(UIDelegate.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(Utils.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(Utils.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(WinImplBase.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(WinImplBase.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(WndShadow.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(WndShadow.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib_2017.lib(XUnzip.obj) : warning LNK4099: 未找到 PDB“DuiLib_2017.pdb”(使用“DuiLib_2017.lib(XUnzip.obj)”或在“D:\projects\zoom\zoom-sdk-windows-master\bin\DuiLib_2017.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  sdk_demo_v2_2017.vcxproj -> D:\projects\zoom\zoom-sdk-windows-master\demo\sdk_demo_v2\..\..\bin\sdk_demo_v2_2017.exe
